@@ -2,4 +2,4 @@
 
 ## Completed first commit
 
-### Setup completed 
+### Done with setup 
